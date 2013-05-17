@@ -10,3 +10,18 @@ http://kogebog.dikutal.dk/
 
 Recipes are allowed in both Danish and English in any notation you
 like.
+
+
+Installation
+------------
+The cookbook is built using Wok. 
+
+Installing Wok and dependencies:
+
+    pip install wok
+    pip install PyYaml
+    pip install jinja2
+    pip install Pygments
+
+To generate the cookbook, just enter the "website" directory and type
+`wok`.
