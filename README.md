@@ -1,0 +1,4 @@
+Cookbook
+========
+
+DIKUs shared cookbook
