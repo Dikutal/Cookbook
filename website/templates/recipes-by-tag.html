@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% for q in site.tags | sort %}
+    <h2>{{q  | capitalize}} ({{site.tags[q] | count}})</h2>
+    <ul>
+        {% for p in site.tags[q] | sort %}
+          <li><a href="{{p.url}}">{{ p.title }}</a></li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+{% endblock %}
+

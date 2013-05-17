@@ -1,0 +1,30 @@
+body {
+    font:normal medium 'Gill Sans','Gill Sans MT','Goudy Bookletter 1911','Linux Libertine O','Liberation Serif',Candara,serif;
+    padding:0;
+    margin:0 auto;
+    width:30em;
+    line-height:1.5;
+    word-spacing:0.1em
+}
+
+
+header h1 { text-align:center; }
+h1        { margin-bottom: 0.2em; }
+h2 {
+    margin-bottom: 0.2em;
+    font-size: 110%;
+}
+h3 {
+    margin-bottom: 0.1em;
+    font-size: 110%;
+    font-style: italic;
+}
+
+ul, p, div { margin-top: 0.1em; }
+
+/* Style navigation and footer */
+nav a             { text-decoration: none; }
+nav               { margin-bottom: 3em; }
+nav ul, footer ul { margin:0;padding:0 1em 0 0;text-align:center}
+nav li, footer li { display:inline;padding-left:1em}
+footer { margin-top: 3em; }

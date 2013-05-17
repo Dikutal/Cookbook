@@ -1,0 +1,5 @@
+title: List of recipes
+type: recipes-by-language
+slug: recipes
+url: /index.html
+---

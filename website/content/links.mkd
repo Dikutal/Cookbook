@@ -1,0 +1,19 @@
+title: Links
+---
+
+Links
+=====
+In addition to our own collection of recipes we refer to the following
+websites with high-quality recipes.
+
+Danish
+------
+  * [gugge.dk](http://gugge.dk/) - Good collection of high-quality recipes
+  * [kvalimad.dk](http://kvalimad.dk/) - Really nice food-blog with video-instructions, the guy is often in Danish morning TV
+  * [foodfanatic.dk](http://foodfanatic.dk/) - Another awesome Danish food-blog
+  * [gamledanskeopskrifter.dk](http://gamledanskeopskrifter.dk/) - Old Danish recipes, all the classic sauces and meals from Denmark
+
+English
+-------
+  * [reddit.com/r/cooking/](http://reddit.com/r/cooking/)
+

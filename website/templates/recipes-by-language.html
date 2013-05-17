@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% for q in page.subpages | sort %}
+       <h2>{{ q.title }}</h2>
+       <ul>
+        {% for p in q.subpages | sort %}
+          <li><a href="{{p.url}}">{{ p.title }}</a></li>
+        {% endfor %}
+       </ul>
+    {% endfor %}
+{% endblock %}
