@@ -1,0 +1,43 @@
+@import url(http://fonts.googleapis.com/css?family=Molle:400italic);
+
+nav#dikutal-header {
+  width:100%;
+  margin: 0;
+  line-height: 28px;
+  background-color: #02986b;
+  color: #ddd;
+  font-family: sans-serif;
+  font-size: 13px;
+  border-bottom:1px solid grey;
+}
+
+nav#dikutal-header ol {
+    margin: 0;
+    padding: 0;
+    padding-right: 2em;
+    font-weight: bold;
+}
+
+nav#dikutal-header ol li {
+   display:inline;
+   margin-left: 14px;
+}
+
+nav#dikutal-header ol li a {
+  text-decoration:none;
+  color: #ddd;
+}
+
+nav#dikutal-header ol li a:hover,
+ol li a.selected {
+    color: #fff;
+}
+
+nav#dikutal-header #logo {
+  padding-left:1em;
+  float: left;
+  font-family: 'Molle', cursive;
+  font-style: italic;
+  font-size: 20px;
+  color: orange;
+}
