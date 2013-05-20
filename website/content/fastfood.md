@@ -14,8 +14,6 @@ The pizzaria across the street.<br/>
 Lersø Parkallé 17, 2100 København Ø, 35 82 12 00.<br/>
 [Menu](http://fastfood.coq.dk/DuniyasMenu.pdf) - [Website](http://duniyasshish.dk/) - [Facebook page](https://www.facebook.com/pages/duniyasshishdk/394440207276511)
 
-<blockquote><strong>Discounts</strong><sup>(<a href="http://dikutal.dk/sites/default/files/duniyas-card.jpg">source</a>)</sup>: <br/>Save 10% by ordering online.<br/>Save 20% by liking their Facebook page. (Does not apply to lunch offers or drinks.)</blockquote>
-
 ### Oasen
 Jagtvej 137, 2200 København N, 35 83 19 10.<br/>
 [Menu](http://fastfood.coq.dk/OasenMenu.pdf)
