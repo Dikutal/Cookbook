@@ -1,4 +1,4 @@
 title: Recipes by tag
 type: recipes-by-tag
-url: /recipes-by-tag.html
+url: /index.html
 ---
