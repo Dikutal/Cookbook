@@ -6,6 +6,8 @@ image:
     url: http://i.imgur.com/alqzKg0.jpg
     where: right
 ---
+*Tilføjet af Mads Ohm Larsen*
+
 Antal brugere
 -------------
 1-3

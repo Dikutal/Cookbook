@@ -3,6 +3,8 @@ type: recipe
 category: recipes/danish
 tags: [dinner]
 ---
+*Tilføjet af Michael Andersen*
+
 Til ca. 10 personer.
 
  * 1700 gram kylling filet (Helst uden lage)
