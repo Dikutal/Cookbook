@@ -11,13 +11,14 @@ body {
 header h1 { text-align:center; }
 h1        { margin-bottom: 0.2em; }
 h2 {
-    margin-bottom: 0.2em;
+    margin-bottom: 0.1em;
     font-size: 110%;
 }
 h3 {
+    margin-top: 0.1em;
     margin-bottom: 0.1em;
-    font-size: 110%;
     font-style: italic;
+    font-size: 100%;
 }
 
 ul, p, div { margin-top: 0.1em; }
