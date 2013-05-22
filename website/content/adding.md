@@ -25,6 +25,15 @@ A pull-request is a message you can send on Github from one repository owner to 
 
 Then the receiver can accept by pushing a button on Githube and the changes will be merged.
 
+### How to
+
+ * Make the changes in your local repository
+ * Push the "Pull Request" button on Github (to the right of the repository title)
+ * The left side should point to Dikutal/Cookbook and the right side to your fork
+ * Send the pull request!
+
+The pull request will then appear on our side, and we can accept it. Here is a a pull request I made just for illustration: https://github.com/Dikutal/Cookbook/pull/1 
+
 Testing
 -------
 To test your changes you should install Wok and dependencies as mentioned in the README: https://github.com/dybber/Cookbook/blob/master/README.md
