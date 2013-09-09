@@ -18,10 +18,7 @@ The cookbook is built using Wok.
 
 Installing Wok and dependencies:
 
-    pip install wok
-    pip install PyYaml
-    pip install jinja2
-    pip install Pygments
+    pip install wok PyYaml jinja2 Pygments
 
 To generate the cookbook, just enter the "website" directory and type
 `wok`.
