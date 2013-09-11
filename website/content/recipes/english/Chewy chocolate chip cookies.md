@@ -45,8 +45,11 @@ Instructions
 * Use a tablespoon to place lumps of dough well-spaced on the baking sheet.
   No need to flatten them, they will melt on their own in the oven.
 * Bake for 15 minutes or until golden brown. (Time will vary depending on size.)
+* Let them cool for at least 10 minutes on a cooling rack. (Leave them on the
+  baking paper; they're very fragile until they set.)
 
 Tips
 ----
 * If the cookies don't melt and flatten out while baking, you should try cutting
   back a bit on the flour or adding a tad more butter.
+* Instead of dark chocolate, try white chocolate and dried cranberries.
